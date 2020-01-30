@@ -1,3 +1,3 @@
-3.	#!/bin/sh -l
-4.	
+#!/bin/sh -l
+
 sh -c "echo Hello world my name is $MY_NAME"
